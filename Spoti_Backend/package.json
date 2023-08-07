@@ -1,0 +1,20 @@
+{
+  "name": "spoti_backend",
+  "version": "1.0.0",
+  "description": "este es un proyecto backend spotify",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spoti",
+    "api",
+    "rest",
+    "bd"
+  ],
+  "author": "Isaias",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

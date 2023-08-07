@@ -1,0 +1,263 @@
+{
+    "alumnos": [
+        {
+            "id": "A1270001",
+            "boleta": 1,
+            "name": "Zair",
+            "email": "zair@devf.com",
+            "materias": [
+                {
+                    "name": "Algebra Lineal",
+                    "calificacion": "9",
+                    "profesor": "Liliana Roman Gumeta",
+                    "horario": "Lunes 08:00 p.m. - 10:00 p.m."
+                },
+                {
+                    "name": "Introduccion a la programacion",
+                    "calificacion": "8",
+                    "profesor": "Rebeca Roman Santiago",
+                    "horario": "Lunes 04:00 p.m. - 05:00 p.m."
+                }
+            ]
+        },
+        {
+            "id": "A127002",
+            "boleta": 2,
+            "name": "Victor Manuel",
+            "email": "victor@devf.com",
+            "materias": [
+                {
+                    "name": "Electronica basica",
+                    "calificacion": "9",
+                    "profesor": "Miguel Angel Estrada Gonzalez",
+                    "horario": "Martes 05:00 p.m. - 07:00 p.m."
+                },
+                {
+                    "name": "Algebra",
+                    "calificacion": "7",
+                    "profesor": "Liliana Roman Gumeta",
+                    "horario": "Miercoles 04:00 p.m. - 05:00 p.m."
+                }
+            ]
+        },
+        {
+            "id": "A127003",
+            "boleta": 3,
+            "name": "Andres",
+            "email": "andres@devf.com",
+            "materias": [
+                {
+                    "name": "Introduccion a las finanzas",
+                    "calificacion": "7",
+                    "profesor": "Vicente Roman Ramirez",
+                    "horario": "Jueves 06:00 p.m. - 07:00 p.m."
+                },
+                {
+                    "name": "Introduccion a la Fisica",
+                    "calificacion": "6",
+                    "profesor": "Monica Zavaleta Guzman",
+                    "horario": "Viernes 04:00 p.m. - 05:00 p.m."
+                }
+            ]
+        },
+        {
+            "id": "A127004",
+            "boleta": 4,
+            "name": "Felipe",
+            "email": "felipe@devf.com",
+            "materias": [
+                {
+                    "name": "Programacion",
+                    "calificacion": "8",
+                    "profesor": "Eliseo Vazquez Gomez",
+                    "horario": "Martes 07:00 p.m. - 08:00 p.m."
+                },
+                {
+                    "name": "Desarrollo humano",
+                    "calificacion": "10",
+                    "profesor": "Paola Culebro Jimenez",
+                    "horario": "Lunes 02:00 p.m. - 03:00 p.m."
+                }
+            ]
+        },
+        {
+            "id": "A127005",
+            "boleta": 5,
+            "name": "Daniela",
+            "email": "daniela@devf.com",
+            "materias": [
+                {
+                    "name": "Matematicas discretas",
+                    "calificacion": "7",
+                    "profesor": "Santiago Dominguez Esquivel",
+                    "horario": "Miercoles 05:00 p.m. - 07:00 p.m."
+                },
+                {
+                    "name": "Introduccion a la contabilidad",
+                    "calificacion": "8",
+                    "profesor": "Vicente Roman Ramirez",
+                    "horario": "Lunes 02:00 p.m. - 03:00 p.m."
+                }
+            ]
+        },
+        {
+            "id": "A127006",
+            "boleta": 6,
+            "name": "Pedro",
+            "email": "pedro@devf.com",
+            "materias": [
+                {
+                    "name": "Matematicas discretas",
+                    "calificacion": "9",
+                    "profesor": "Santiago Dominguez Esquivel",
+                    "horario": "Viernes 04:00 p.m. - 06:00 p.m."
+                },
+                {
+                    "name": "Programacion",
+                    "calificacion": "9",
+                    "profesor": "Eliseo Vazquez Gomez",
+                    "horario": "Martes 05:00 p.m. - 07:00 p.m."
+                }
+            ]
+        },
+        {
+            "id": "A127007",
+            "boleta": 7,
+            "name": "Alejandra Nafate Ortega",
+            "email": "alejandra@devf.com",
+            "materias": [
+                {
+                    "name": "Desarrollo humano",
+                    "calificacion": "8",
+                    "profesor": "Paola Culebro Jimenez",
+                    "horario": "Martes 04:00 p.m. - 05:00 p.m."
+                },
+                {
+                    "name": "Programacion II",
+                    "calificacion": "9",
+                    "profesor": "Alelandro Escarela Santiago",
+                    "horario": "Martes 06:00 p.m. - 09:00 p.m."
+                }
+            ]
+        },{
+            "id": "A127008",
+            "boleta": 8,
+            "name": "Etsau Jimenez Zarate",
+            "email": "etsau@devf.com",
+            "materias": [
+                {
+                    "name": "Introduccion a base de datos",
+                    "calificacion": "7",
+                    "profesor": "Rebeca Roman Santiago",
+                    "horario": "Jueves 08:00 p.m. - 10:00 p.m."
+                },
+                {
+                    "name": "Programacion II",
+                    "calificacion": "8",
+                    "profesor": "Miguel Angel Estrada Gonzalez",
+                    "horario": "Viernes 08:00 p.m. - 10:00 p.m."
+                }
+            ]
+        },
+        {
+            "id": "A127009",
+            "boleta": 9,
+            "name": "Carolina Martinez Ramirez",
+            "email": "carolina@devf.com",
+            "materias": [
+                {
+                    "name": "Administracion de empresas",
+                    "calificacion": "7",
+                    "profesor": "Yuribeth Gurgua Sanchez",
+                    "horario": "Lunes 04:00 p.m. - 06:00 p.m."
+                },
+                {
+                    "name": "Desarrollo humano",
+                    "calificacion": "9",
+                    "profesor": "Paola Culebro Jimenez",
+                    "horario": "Jueves 04:00 p.m. - 06:00 p.m."
+                }
+            ]
+        },
+        {
+            "id": "A127010",
+            "boleta": 10,
+            "name": "Felipe Alamilla Estrada",
+            "email": "felipe@devf.com",
+            "materias": [
+                {
+                    "name": "Introduccion a interfaces",
+                    "calificacion": "8",
+                    "profesor": "Cinthia Martinez Martinez",
+                    "horario": "Viernes 07:00 p.m. - 09:00 p.m."
+                },
+                {
+                    "name": "Teoria de la investigacion",
+                    "calificacion": "9",
+                    "profesor": "Eliseo Vazquez Gomez",
+                    "horario": "Lunes 09:00 p.m. - 10:00 p.m."
+                }
+            ]
+        },
+        {
+            "id": "A127011",
+            "boleta": 11,
+            "name": "Nancy Trinidad Melendez",
+            "email": "nancy@devf.com",
+            "materias": [
+                {
+                    "name": "Matematicas discretas",
+                    "calificacion": "7",
+                    "profesor": "Liliana Roman Gumeta",
+                    "horario": "Miercoles 08:00 p.m. - 09:00 p.m."
+                },
+                {
+                    "name": "Introduccion a interfaces",
+                    "calificacion": "10",
+                    "profesor": "Cinthia Martinez Martinez",
+                    "horario": "Viernes 07:00 p.m. - 09:00 p.m."
+                }
+            ]
+        },
+        {
+            "id": "A127012",
+            "boleta": 12,
+            "name": "Miguel Cordova Ocaña",
+            "email": "miguel@devf.com",
+            "materias": [
+                {
+                    "name": "Sistemas operativos I",
+                    "calificacion": "10",
+                    "profesor": "Santiago Dominguez Esquivel",
+                    "horario": "Martes 06:00 p.m. - 08:00 p.m."
+                },
+                {
+                    "name": "Electronica basica II",
+                    "calificacion": "6",
+                    "profesor": "Miguel Angel Estrada Gonzalez",
+                    "horario": "Miercoles 08:00 p.m. - 10:00 p.m."
+                }
+            ]
+        },
+        {
+            "id": "A127013",
+            "boleta": 13,
+            "name": "Blanca Trinidad Fuentes",
+            "email": "blanca@devf.com",
+            "materias": [
+                {
+                    "name": "Sistemas operativos II",
+                    "calificacion": "10",
+                    "profesor": "Alelandro Escarela Santiago",
+                    "horario": "Jueves 05:00 p.m. - 06:00 p.m."
+                },
+                {
+                    "name": "Administracion de empresas",
+                    "calificacion": "8",
+                    "profesor": "Vicente Roman Ramirez",
+                    "horario": "Miercoles 07:00 p.m. - 09:00 p.m."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "materias":[
+        {
+            "id": 1,
+            "materia": "Matematicas discretas",
+            "profesor": "Santiago Dominguez Esquivel"
+        },
+        {
+            "id": 2,
+            "materia": "Algebra lineal",
+            "profesor": "Liliana Roman Gumeta"
+        },
+        {
+            "id": 3,
+            "materia": "Introduccion a la programacion",
+            "profesor": "Eliseo Vazquez Gomez"
+        },
+        {
+            "id": 4,
+            "materia": "Electronica basica",
+            "profesor": "Miguel Angel Estrada Gonzalez"
+        },
+        {
+            "id": 5,
+            "materia": "Algebra",
+            "profesor": "Liliana Roman Gumeta"
+        },
+        {
+            "id": 6,
+            "materia": "Programacion",
+            "profesor": "Rebeca Roman Santiago"
+        },
+        {
+            "id": 7,
+            "materia": "Desarrollo humano",
+            "profesor": "Paola Culebro Jimenez"
+        },
+        {
+            "id": 8,
+            "materia": "Introduccion a la contabilidad",
+            "profesor": "Vicente Roman Ramirez"
+        },
+        {
+            "id": 9,
+            "materia": "Administracion de empresas",
+            "profesor": "Yuribeth Gurgua Sanchez"
+        },
+        {
+            "id": 10,
+            "materia": "Introduccion a interfaces",
+            "profesor": "Cinthia Martinez Martinez"
+        },
+        {
+            "id": 11,
+            "materia": "Sistemas operativos",
+            "profesor": "Alejandro Escarela Santiago"
+        }
+    ]
+}

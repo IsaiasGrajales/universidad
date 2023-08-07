@@ -1,0 +1,74 @@
+{
+    "profesores":[
+        {
+            "id": "PFR0001",
+            "nombre": "Alejandro",
+            "apellido": "Escalera Santiago",
+            "carrera": "Ing. de Software",
+            "numEmpleado": "A3017546" 
+        },
+        {
+            "id": "PFR0002",
+            "nombre": "Santiago",
+            "apellido": "Dominguez Esquivel",
+            "carrera": "Ing. en Mecatronica",
+            "numEmpleado": "A3018758" 
+        },
+        {
+            "id": "PFR0003",
+            "nombre": "Rebeca",
+            "apellido": "Roman Santiago",
+            "carrera": "Ing. en Sistemas Computacionales",
+            "numEmpleado": "A3013317" 
+        },
+        {
+            "id": "PFR0004",
+            "nombre": "Yuribeth",
+            "apellido": "Gurgua Sanchez",
+            "carrera": "Lic. en Admon de Empresas",
+            "numEmpleado": "A3019350" 
+        },
+        {
+            "id": "PFR0005",
+            "nombre": "Miguel Angel",
+            "apellido": "Estrada Gonzalez",
+            "carrera": "Ing. en Electronica",
+            "numEmpleado": "A3016721" 
+        },
+        {
+            "id": "PFR0006",
+            "nombre": "Vicente",
+            "apellido": "Roman Ramirez",
+            "carrera": "Lic. en Contabilidad",
+            "numEmpleado": "A3010712" 
+        },
+        {
+            "id": "PFR0007",
+            "nombre": "Liliana",
+            "apellido": "Roman Gumeta",
+            "carrera": "Lic. en Matematicas",
+            "numEmpleado": "A3010703" 
+        },
+        {
+            "id": "PFR0008",
+            "nombre": "Paola",
+            "apellido": "Culebro Jimenez",
+            "carrera": "Lic. en Psicologia",
+            "numEmpleado": "A3013367" 
+        },
+        {
+            "id": "PFR0009",
+            "nombre": "Cinthia",
+            "apellido": "Martinez Martinez",
+            "carrera": "Lic. en Diseño Grafico",
+            "numEmpleado": "A3017722" 
+        },
+        {
+            "id": "PFR0010",
+            "nombre": "Eliseo",
+            "apellido": "Vazquez Gomez",
+            "carrera": "Ing. de Software",
+            "numEmpleado": "A3013216" 
+        }
+    ]
+}
