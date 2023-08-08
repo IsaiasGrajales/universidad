@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #136a8a;
+}
+
+.container{
+    width: 100%;
+    height: 604px;
+    
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.menu-opcion{
+    width: 51%;
+    height: 604px;
+    margin-right: 1%;
+    display: flex;
+    flex-direction: column;
+}
+
+h3{
+    color: rgba(255, 255, 255, 1) !important;
+    font-size: 2em;
+    text-shadow: 2px 2px 1px black;
+}
+
+.opcion-1{
+    width: 100%;
+    height: 302px;
+    display: flex;
+    flex-direction: row;
+}
+
+.materias{
+    width: 50%;
+    background-image: url('../source/materias.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+    align-items: end;
+    display: flex;
+    justify-content: center;
+}
+
+.materias:hover{
+    opacity: 1;
+}
+
+.docentes{
+    width: 50%;
+    background-image: url('../source/docentes.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+    align-items: end;
+    display: flex;
+    justify-content: center;
+}
+
+.docentes:hover{
+    opacity: 1;
+}
+
+.opcion-2{
+    width: 100%;
+    height: 302px;
+    display: flex;
+    flex-direction: row;
+}
+
+.alumnos{
+    width: 50%;
+    background-image: url('../source/alumnos.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+    align-items: end;
+    display: flex;
+    justify-content: center;
+}
+
+.alumnos:hover{
+    opacity: 1;
+}
+
+.biblioteca{
+    width: 50%;
+    background-image: url('../source/biblioteca.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+    align-items: end;
+    display: flex;
+    justify-content: center;
+}
+
+.biblioteca:hover{
+    opacity: 1;
+}
+
+.picture{
+    width: 48%;
+    height: 604px;
+    background-image: url('../source/fondo_picture.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
