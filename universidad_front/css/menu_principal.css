@@ -24,9 +24,28 @@ body{
 }
 
 h3{
-    color: rgba(255, 255, 255, 1) !important;
-    font-size: 2em;
-    text-shadow: 2px 2px 1px black;
+    color: #fff !important;
+    font-size: 2.6em;
+    transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+h3:hover{
+    outline-color: rgba(27, 38, 49, 0.8);
+    outline-offset: 80px;
+    text-shadow: 1px 1px 6px #1B2631;
+}
+
+h4{
+    margin-top: 1em;
+    margin-bottom: 4em;
+    color: white;
+    font-size: 2.2em;
+    text-shadow: 2px 2px 3px black;
+}
+
+a{
+    text-decoration: none;
+    color: white;
 }
 
 .opcion-1{
@@ -109,4 +128,26 @@ h3{
     background-image: url('../source/fondo_picture.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+.contenido{
+    width: 50%;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.close{
+    margin-top: 4em;
+    margin-bottom: 1em;
+    color: black;
+    
+    font-size: 1.7em;
+}
+
+.close:hover{
+    text-shadow: 2px 2px 4px white;
 }
