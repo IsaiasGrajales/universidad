@@ -1,17 +1,17 @@
 function alumnos(){
-    //window.location.replace('./index.html');
+    window.location.replace('./alumnos.html');
 }
 
 function docentes(){
-    //window.location.replace('./index.html');
+    window.location.replace('./docentes.html');
 }
 
 function materias(){
-    //window.location.replace('./index.html');
+    window.location.replace('./materias.html');
 }
 
 function biblioteca(){
-    //window.location.replace('./index.html');
+    window.location.replace('./biblioteca.html');
 }
 
 function cerrarSesion(){
